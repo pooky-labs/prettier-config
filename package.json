@@ -1,0 +1,21 @@
+{
+  "name": "@pooky-labs/prettier-config",
+  "version": "0.1.0",
+  "description": "Prettier configuration used at Pooky",
+  "keywords": ["pooky", "prettier", "format", "standard", "prettier-config"],
+  "homepage": "https://github.com/pooky-labs/prettier-config#readme",
+  "bugs": "https://github.com/pooky-labs/prettier-config/issues",
+  "license": "MIT",
+  "maintainers": [
+    "Mathieu Bour <mathieu.bour@pooky.gg> (https://github.com/mathieu-bour)"
+  ],
+  "files": [".prettierrc.js"],
+  "main": ".prettierrc.js",
+  "repository": "github:pooky-labs/prettier-config",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  },
+  "peerDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
